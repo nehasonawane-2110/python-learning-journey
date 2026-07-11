@@ -1,0 +1,15 @@
+Define algoritham : An algoritham is step by step ste of instruction designed to solve a problem or complete task.
+
+
+# addition of two number
+
+I  START
+II Take input for the two number
+   num1 = 20
+   num2 = 40
+III perform operation 
+    num1 + num2 = sum
+    20 + 40 = 60
+IV  show the result
+    addition = 60
+V  STOP 

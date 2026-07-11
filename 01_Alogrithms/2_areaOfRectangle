@@ -1,0 +1,14 @@
+# Area of the Rectangle
+
+Formula = Length * Breadth
+
+I START
+II  Take a input from the user
+    Length = 25
+    Breadth = 15
+III  calculate Area
+     Length * Breadth = Area
+     25 * 15 = 375
+IV  display result
+    area of rectangle : 375
+V  STOP 

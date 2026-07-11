@@ -1,0 +1,17 @@
+# calculate the simple interest.
+
+Formula = p * R * T / 100
+      P = principle
+      R = Rate
+      T = Time
+
+I START
+II Take input from the user
+   Task = p = 100, R = 2, T = 10
+III perform the operation
+    Formula SI (Simple interest) = P * R * T / 100
+    100 * 2 * 10 / 100
+    2000 / 100 = 20
+IV Display the result
+    SI = 20
+V STOP

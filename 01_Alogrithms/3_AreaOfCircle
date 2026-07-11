@@ -1,0 +1,14 @@
+# Area of the circle
+
+Formula = 3.14(r)^2
+
+I  START
+II Take input from the user
+   Enter the radius 
+   radius = 20
+III  perform the operation
+    Formula = 3.14(r)^2
+    Area = 3.14(20)^2
+IV  display result
+    Area= 1256
+V  STOP

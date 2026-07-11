@@ -1,0 +1,14 @@
+# calculate the compound interest 
+
+Formula = P(1 + R / 100) ^ T - P
+
+I START 
+II  take the input from the user accept the value P , R , T
+    P = 1000
+    R = 10% 
+    T = 2
+IV calculate compound interest
+   1000 * (1 + 10 / 100)^2
+IV Display result
+    CI = 1210
+V STOP 
