@@ -1,0 +1,11 @@
+# variable
+# variable is named location in mamory used to hold a value that can change during program execution
+# use - using the variable transfer data from one line to another line.
+# Differnt types of data can be stored
+
+# rules 
+# can contain alphabets and digits
+# cannot start with digit
+# can not contanin special symbols except underscore
+# case secsitive
+# can not use the keyword as variable
